@@ -750,17 +750,13 @@ http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571188&extension=t
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id="LIVE三立+" tvg-name="LIVE三立+" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002052044560-L.jpg" group-title="台",LIVE三立+
-http://192.168.31.254:35455/youtube/jlldIiGA5bU
+http://sc2022.stream-link.org/tv2306.php?id=t11
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P506204425640.jpg" group-title="台",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P506204425640.jpg" group-title="台",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P506204425640.jpg" group-title="台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="TVBS亞洲" tvg-name="TVBS亞洲" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2101504550-L.jpg" group-title="台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-id="TVBS亞洲" tvg-name="TVBS亞洲" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2101504550-L.jpg" group-title="台",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=t16
 #EXTINF:-1 tvg-id="大爱1台" tvg-name="大爱1台" tvg-logo="https://daai.tv/images/logo.png" group-title="台",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="大爱1台" tvg-name="大爱1台" tvg-logo="https://daai.tv/images/logo.png" group-title="台",大爱1台
@@ -818,7 +814,7 @@ http://192.168.31.254:35455/youtube/r_wsMgFLKys
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="http://www.attnt.org.tw/images/CTV_hd_2.png" group-title="台",中视新闻
 http://192.168.31.254:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="台",中天新闻
-http://192.168.31.254:35455/youtube/plRSmgAJU_E
+http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png" group-title="台",中天亚洲台
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571212&extension=ts
 #EXTINF:-1 tvg-id="Fuji TV" tvg-name="Fuji TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1Q201224U80-L.jpg" group-title="日",Fuji TV
