@@ -938,15 +938,15 @@ http://192.168.31.254:35455/douyu/20415
 #EXTINF:-1 tvg-id="米娅陪看60帧喜剧科幻电影真人互动" tvg-name="米娅陪看60帧喜剧科幻电影真人互动" tvg-logo="" group-title="直播",米娅陪看60帧喜剧科幻电影真人互动
 http://192.168.31.254:35455/douyu/6537888
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL
-https://kramd1.stcwl.xyz/bili.php?id=7734200
+https://kr.stcwl.xyz/tv/bili.php?id=7734200
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL
 http://192.168.31.254:35455/bilibili/7734200?platform=web&line=third&quality=10000
 #EXTINF:-1 tvg-id="高能观赛" tvg-name="高能观赛" tvg-logo="" group-title="LOL",高能观赛
-https://kramd1.stcwl.xyz/bili.php?id=8016907
+https://kr.stcwl.xyz/tv/bili.php?id=8016907
 #EXTINF:-1 tvg-id="高能观赛" tvg-name="高能观赛" tvg-logo="" group-title="LOL",高能观赛
 http://192.168.31.254:35455/bilibili/8016907?platform=web&line=third&quality=10000
 #EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
-https://kramd1.stcwl.xyz/bili.php?id=7777
+https://kr.stcwl.xyz/tv/bili.php?id=7777
 #EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
 http://192.168.31.254:35455/bilibili/7777?platform=web&line=third&quality=10000
 #EXTINF:-1 tvg-id="WE957" tvg-name="WE957" tvg-logo="" group-title="LOL",WE957
