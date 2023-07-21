@@ -764,7 +764,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",东森财经
 http://192.168.31.254:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1 group-title="台",东森新闻
-http://sc2022.stream-link.org/tv2306.php?id=t01
+http://192.168.31.254:35455/youtube/S5WOGu2HSes
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
 http://iptv.weai.love/live/88888888/fhzw.m3u8
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
@@ -776,7 +776,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t04
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/寰宇國際新聞.png",寰宇國際新聞
 http://sc2022.stream-link.org/tv2306.php?id=t07
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/寰宇台灣新聞.png",寰宇台灣新聞
-http://sc2022.stream-link.org/tv2306.php?id=t08
+http://192.168.31.254:35455/youtube/B7Zp3d6xXWw
 #EXTINF:-1 group-title="台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P50501142cC.jpg",民视新闻 HD
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/民視.png",民視HD
@@ -804,9 +804,9 @@ http://192.168.31.254:35455/youtube/EQ4s_FzBwuM
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/三立台灣.png",三立台灣
 http://sc2022.stream-link.org/tv2306.php?id=t23
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png",三立新聞
-http://sc2022.stream-link.org/tv2306.php?id=t10
+http://192.168.31.254:35455/youtube/FoBfXvlOR6I
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/三立新聞+.png",三立新聞+
-http://sc2022.stream-link.org/tv2306.php?id=t11
+http://192.168.31.254:35455/youtube/oZdzzvxTfUY
 #EXTINF:-1 group-title="台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png",台视新闻 HD
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P312155506362.jpg",台湾番薯台
@@ -823,16 +823,14 @@ http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571182&extension=t
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="台" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200215115K90-L.jpg",新唐人亚太
 http://192.168.31.254:35455/youtube/WIhgU_mc05A
-#EXTINF:-1 group-title="台",新闻大白话
-http://192.168.31.254:35455/youtube/AGu1WesgXM8
 #EXTINF:-1 group-title="台" tvg-logo="http://www.attnt.org.tw/images/CTV_hd_3.png",中视经典综艺
 http://192.168.31.254:35455/youtube/r_wsMgFLKys
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png",中視新聞
-http://sc2022.stream-link.org/tv2306.php?id=t05
+http://192.168.31.254:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png",中天新聞
-http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png",中天亞洲台
-http://sc2022.stream-link.org/tv2306.php?id=t15
+http://192.168.31.254:35455/youtube/oIgbl7t0S_w
+#EXTINF:-1 group-title="台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻台
+http://192.168.31.254:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-id="Fuji TV" tvg-name="Fuji TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1Q201224U80-L.jpg" group-title="日",Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Gunma TV" tvg-name="Gunma TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2104111942070-L.jpg" group-title="日",Gunma TV
