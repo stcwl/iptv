@@ -940,8 +940,6 @@ http://192.168.31.254:35455/bilibili/7734200?platform=web&line=third&quality=100
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Douyu
 http://192.168.31.254:35455/douyu/288016
 #EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
-http://192.168.31.254:5678/bili.php?id=7777
-#EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
 http://192.168.31.254:35455/bilibili/7777?platform=web&line=third&quality=10000
 #EXTINF:-1 tvg-id="WE957" tvg-name="WE957" tvg-logo="" group-title="LOL",WE957
 http://192.168.31.254:35455/huya/890001
