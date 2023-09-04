@@ -192,7 +192,7 @@ http://192.168.31.254:5678/as.php?id=cetv4
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_031213034WR0.jpg" group-title="央视",CETV-4(CMCC)
 http://192.168.31.254:4022/udp/239.11.0.36:1025
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN(AS)
-http://192.168.31.254:5678/as.php?id=cgtnhd
+http://192.168.31.254:5678/as.php?id=cgtn
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN(CMCC)
 http://192.168.31.254:4022/udp/239.10.0.196:1025
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN(GD)
