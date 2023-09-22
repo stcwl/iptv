@@ -808,9 +808,9 @@ http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571191&extension=t
 #EXTINF:-1 tvg-id="astro 小太阳 " tvg-name="astro 小太阳 " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="港",astro 小太阳 
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571230&extension=ts
 #EXTINF:-1 tvg-id="astro AOD 351" tvg-name="astro AOD 351" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/64_144.png" group-title="港",astro AOD 351
-http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571226&extension=ts
+http://innovationtv.eu/play/live.php?mac=00:1A:79:0C:49:E8&stream=571226&extension=ts
 #EXTINF:-1 tvg-id="astro AOD 352" tvg-name="astro AOD 352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="港",astro AOD 352
-http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571225&extension=ts
+http://innovationtv.eu/play/live.php?mac=00:1A:79:0C:49:E8&stream=571229&extension=ts
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",TVB 翡翠台
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571187&extension=ts
 #EXTINF:-1 tvg-id="经典台" tvg-name="经典台" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="港",TVB 经典台
