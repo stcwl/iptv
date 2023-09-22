@@ -786,7 +786,7 @@ http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30493&extension=ts
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(GD)
 http://192.168.31.254:5678/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台1@1080p
-https://epg.pw/stream/87f2b8bed02e22c30fd3e7d673e1bde545eda36e7b62aa6cb8e715bc82ac1e91.ctv
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台1@720p
 https://epg.pw/stream/66a4e808a7641249a9ee7c9f7c6373708050d0bda0e94d809e32f12dfc3712fd.ctv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台2@1080p
@@ -799,6 +799,8 @@ http://r.jdshipin.com/62WM7
 http://107.151.203.111:2209/135/hk.php?id=tvbfct
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台(GD)
 http://192.168.31.254:5678/gudou.php?id=1351_4500
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台(GD)
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 tvg-id="astro 爱奇艺" tvg-name="astro 爱奇艺" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="港",astro 爱奇艺
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571198&extension=ts
 #EXTINF:-1 tvg-id="astro 双星" tvg-name="astro 双星" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="港",astro 双星
@@ -814,7 +816,7 @@ http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571187&extension=t
 #EXTINF:-1 tvg-id="经典台" tvg-name="经典台" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="港",TVB 经典台
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571197&extension=ts
 #EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="港",TVB 星河台
-http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="港",TVB 娱乐新闻台
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571188&extension=ts
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港",有线新闻
