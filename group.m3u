@@ -1008,11 +1008,13 @@ http://192.168.31.254:35455/douyu/20415
 #EXTINF:-1 tvg-id="米娅陪看60帧喜剧科幻电影真人互动" tvg-name="米娅陪看60帧喜剧科幻电影真人互动" tvg-logo="" group-title="直播",米娅陪看60帧喜剧科幻电影真人互动
 http://192.168.31.254:35455/douyu/6537888
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Bili
-http://192.168.31.254:35455/bilibili/7734200?platform=web&line=third&quality=10000
+http://192.168.31.254:5678/bilibl.php?id=6
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Douyu
 http://192.168.31.254:35455/douyu/288016
 #EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
-http://192.168.31.254:35455/bilibili/7777?platform=web&line=third&quality=10000
+http://192.168.31.254:5678/bilibl.php?id=7777
+#EXTINF:-1 tvg-id="真实电竞（破防电竞）" tvg-name="真实电竞（破防电竞）" tvg-logo="https://i2.hdslb.com/bfs/face/e9a7d6f8af8e11c30bde4e3a398c251560d19984.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" group-title="LOL",真实电竞（破防电竞）
+http://192.168.31.254:5678/bilibl.php?id=23170544
 #EXTINF:-1 tvg-id="WE957" tvg-name="WE957" tvg-logo="" group-title="LOL",WE957
 http://192.168.31.254:35455/huya/890001
 #EXTINF:-1 tvg-id="LCK" tvg-name="LCK" tvg-logo="" group-title="LOL",LCK
