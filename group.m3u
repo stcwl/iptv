@@ -1009,6 +1009,8 @@ http://192.168.31.254:35455/douyu/20415
 http://192.168.31.254:35455/douyu/6537888
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Bili
 http://192.168.31.254:5678/bilibl.php?id=6
+#EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Bili(4k)
+http://192.168.31.254:5678/bilibl.php?id=10
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Douyu
 http://192.168.31.254:35455/douyu/288016
 #EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
