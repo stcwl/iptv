@@ -12,21 +12,21 @@ http://xgp.stcwl.xyz:4023/udp/239.21.0.103:3752
 #EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212004O6.jpg" group-title="汕头",汕头文旅体育(GD)
 http://192.168.30.1:5678/gudou.php?id=2508_4500
 #EXTINF:-1 tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P329205145X7.jpg" group-title="潮汕",潮安综合(GD)
-http://192.168.30.1:5678/gudou.php?id=chaoanzongheHD_4500
+http://192.168.31.254:5678/gudou.php?id=chaoanzongheHD_4500
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z505195554204.jpg" group-title="潮汕",潮州民生(GD)
-http://192.168.30.1:5678/gudou.php?id=3132_4500
+http://192.168.31.254:5678/gudou.php?id=3132_4500
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z50519550T50.jpg" group-title="潮汕",潮州综合(GD)
-http://192.168.30.1:5678/gudou.php?id=3131_4500
+http://192.168.31.254:5678/gudou.php?id=3131_4500
 #EXTINF:-1 tvg-id="饶平台" tvg-name="饶平台" tvg-logo="https://www.nettvpro.live/uploads/20/1-200H022401J27.jpg" group-title="潮汕",饶平台
-http://192.168.30.1:5678/gudou.php?id=raopingtaiHD_4500
+http://192.168.31.254:5678/gudou.php?id=raopingtaiHD_4500
 #EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5302213003C.jpg" group-title="潮汕",揭阳生活(CMCC)
 http://xgp.stcwl.xyz:4023/udp/239.21.0.92:3708
 #EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5302213003C.jpg" group-title="潮汕",揭阳生活(GD)
-http://192.168.30.1:5678/gudou.php?id=jieyangertao_1500
+http://192.168.31.254:5678/gudou.php?id=jieyangertao_1500
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530221032426.jpg" group-title="潮汕",揭阳综合(CMCC)
 http://xgp.stcwl.xyz:4023/udp/239.21.0.91:3704
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530221032426.jpg" group-title="潮汕",揭阳综合(GD)
-http://192.168.30.1:5678/gudou.php?id=jieyangyitao_1500
+http://192.168.31.254:5678/gudou.php?id=jieyangyitao_1500
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1(CMCC)
 http://xgp.stcwl.xyz:4023/udp/239.10.0.114:1025
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1(GD)
