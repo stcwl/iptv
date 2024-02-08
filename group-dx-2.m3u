@@ -2,15 +2,15 @@
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530211S5L3.jpg" group-title="汕头",汕头综合(CMCC)
 http://xgp.stcwl.xyz:4023/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530211S5L3.jpg" group-title="汕头",汕头综合(GD)
-http://192.168.30.1:5678/gudou.php?id=shantouyitaogaoqing_4500
+http://192.168.31.254:5678/gudou.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530204Z4Z9.jpg" group-title="汕头",汕头经济生活(CMCC)
 http://xgp.stcwl.xyz:4023/udp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530204Z4Z9.jpg" group-title="汕头",汕头经济生活(GD)
-http://192.168.30.1:5678/gudou.php?id=shantouertaogaoqing_4500
+http://192.168.31.254:5678/gudou.php?id=shantouertaogaoqing_4500
 #EXTINF:-1 tvg-id="汕头体育文化" tvg-name="汕头体育文化" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212004O6.jpg" group-title="汕头",汕头文旅体育(CMCC)
 http://xgp.stcwl.xyz:4023/udp/239.21.0.103:3752
 #EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212004O6.jpg" group-title="汕头",汕头文旅体育(GD)
-http://192.168.30.1:5678/gudou.php?id=2508_4500
+http://192.168.31.254:5678/gudou.php?id=2508_4500
 #EXTINF:-1 tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P329205145X7.jpg" group-title="潮汕",潮安综合(GD)
 http://192.168.31.254:5678/gudou.php?id=chaoanzongheHD_4500
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z505195554204.jpg" group-title="潮汕",潮州民生(GD)
