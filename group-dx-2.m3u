@@ -5,7 +5,11 @@ http://xgp.stcwl.xyz:7088/udp/239.21.0.101:3744
 http://xgp.stcwl.xyz:7088/udp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="汕头体育文化" tvg-name="汕头体育文化" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212004O6.jpg" group-title="汕头",汕头文旅体育(CMCC)
 http://xgp.stcwl.xyz:7088/udp/239.21.0.103:3752
-#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5302213003C.jpg" group-title="潮汕",揭阳生活(CMCC)
+EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="http://www.nettv.live/uploads/19/1-1Z50519550T50.jpg" group-title="潮汕",潮州综合(CMCC)
+http://xgp.stcwl.xyz:7088/udp/239.21.0.145:3924
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="http://www.nettv.live/uploads/19/1-1Z505195554204.jpg" group-title="潮汕",潮州民生(CMCC)
+http://xgp.stcwl.xyz:7088/udp/239.21.0.146:3928
+#EXTINF:-1 tvg-id="揭阳文化生活" tvg-name="揭阳文化生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5302213003C.jpg" group-title="潮汕",揭阳文化生活(CMCC)
 http://xgp.stcwl.xyz:7088/udp/239.21.0.92:3708
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530221032426.jpg" group-title="潮汕",揭阳综合(CMCC)
 http://xgp.stcwl.xyz:7088/udp/239.21.0.91:3704
