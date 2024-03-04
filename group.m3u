@@ -11,12 +11,10 @@ http://192.168.31.254:5679/gudou.php?id=shantouertaogaoqing_4500
 http://192.168.31.254:4022/udp/239.21.0.103:3752
 #EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530212004O6.jpg" group-title="汕头",汕头文旅体育(GD)
 http://192.168.31.254:5679/gudou.php?id=2508_4500
-#EXTINF:-1 tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P329205145X7.jpg" group-title="潮汕",潮安综合(GD)
-http://192.168.31.254:5679/gudou.php?id=chaoanzongheHD_4500
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z505195554204.jpg" group-title="潮汕",潮州民生(GD)
-http://192.168.31.254:5679/gudou.php?id=3132_4500
+http://192.168.31.254:4022/udp/239.21.0.146:3928
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z50519550T50.jpg" group-title="潮汕",潮州综合(GD)
-http://192.168.31.254:5679/gudou.php?id=3131_4500
+http://192.168.31.254:4022/udp/239.21.0.145:3924
 #EXTINF:-1 tvg-id="饶平台" tvg-name="饶平台" tvg-logo="https://www.nettvpro.live/uploads/20/1-200H022401J27.jpg" group-title="潮汕",饶平台
 http://192.168.31.254:5679/gudou.php?id=raopingtaiHD_4500
 #EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5302213003C.jpg" group-title="潮汕",揭阳生活(CMCC)
