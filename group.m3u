@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530211S5L3.jpg" group-title="汕头",汕头综合(CMCC)
 http://192.168.31.254:4022/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P530211S5L3.jpg" group-title="汕头",汕头综合(GD)
