@@ -54,7 +54,7 @@ http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001221/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4(BESTV)
 http://192.168.31.254:5679/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4(CMCC)
-http://192.168.31.254:7088/udp/239.10.0.245:1025
+http://192.168.31.254:4022/udp/239.10.0.245:1025
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4(GD)
 http://192.168.31.254:5679/gudou.php?id=1604
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5(IPV6)
