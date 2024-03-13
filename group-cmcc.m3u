@@ -344,46 +344,46 @@ http://192.168.31.254:7088/udp/239.20.0.196:2190
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052018110799000003.png" group-title="记录",上海纪实(CMCC)
 http://192.168.31.254:7088/udp/239.10.0.78:1025
 #EXTINF:-1 tvg-id="点点尬舞60帧 科幻 动作 喜剧电影" tvg-name="点点尬舞60帧 科幻 动作 喜剧电影" tvg-logo="" group-title="直播",点点尬舞60帧 科幻 动作 喜剧电影
-https://live.stcwl.xyz/douyu/323876
+http://192.168.31.254:35455/douyu/323876
 #EXTINF:-1 tvg-id="小U丧尸 鬼片 恐怖 惊悚 电影" tvg-name="小U丧尸 鬼片 恐怖 惊悚 电影" tvg-logo="" group-title="直播",小U丧尸 鬼片 恐怖 惊悚 电影
-https://live.stcwl.xyz/douyu/96577
+http://192.168.31.254:35455/douyu/96577
 #EXTINF:-1 tvg-id="粤语电影吴孟达 达叔 周星驰 经典" tvg-name="粤语电影吴孟达 达叔 周星驰 经典" tvg-logo="" group-title="直播",粤语电影吴孟达 达叔 周星驰 经典
-https://live.stcwl.xyz/douyu/1226741
+http://192.168.31.254:35455/douyu/1226741
 #EXTINF:-1 tvg-id="话事人粤语周星驰林正英" tvg-name="话事人粤语周星驰林正英" tvg-logo="" group-title="直播",话事人粤语周星驰林正英
-https://live.stcwl.xyz/douyu/5033502
+http://192.168.31.254:35455/douyu/5033502
 #EXTINF:-1 tvg-id="贝爷MAX厅科幻 动作 经典 喜剧" tvg-name="贝爷MAX厅科幻 动作 经典 喜剧" tvg-logo="" group-title="直播",贝爷MAX厅科幻 动作 经典 喜剧
-https://live.stcwl.xyz/douyu/4332
+http://192.168.31.254:35455/douyu/4332
 #EXTINF:-1 tvg-id="贝爷影厅经典 科幻 动作 灾难 巨兽" tvg-name="贝爷影厅经典 科幻 动作 灾难 巨兽" tvg-logo="" group-title="直播",贝爷影厅经典 科幻 动作 灾难 巨兽
-https://live.stcwl.xyz/douyu/252802
+http://192.168.31.254:35455/douyu/252802
 #EXTINF:-1 tvg-id="贝爷影厅欧美 日韩 国产 2号厅" tvg-name="贝爷影厅欧美 日韩 国产 2号厅" tvg-logo="" group-title="直播",贝爷影厅欧美 日韩 国产 2号厅
-https://live.stcwl.xyz/douyu/36337
+http://192.168.31.254:35455/douyu/36337
 #EXTINF:-1 tvg-id="尉迟杰影评" tvg-name="尉迟杰影评" tvg-logo="" group-title="直播",尉迟杰影评
-https://live.stcwl.xyz/douyu/8850682
+http://192.168.31.254:35455/douyu/8850682
 #EXTINF:-1 tvg-id="骑毛驴的八戒" tvg-name="骑毛驴的八戒" tvg-logo="" group-title="直播",骑毛驴的八戒
-https://live.stcwl.xyz/douyu/1979257
+http://192.168.31.254:35455/douyu/1979257
 #EXTINF:-1 tvg-id="科幻片最专业的科幻片解说" tvg-name="科幻片最专业的科幻片解说" tvg-logo="" group-title="直播",科幻片最专业的科幻片解说
-https://live.stcwl.xyz/douyu/9338839
+http://192.168.31.254:35455/douyu/9338839
 #EXTINF:-1 tvg-id="万合天宜王大锤情怀上线" tvg-name="万合天宜王大锤情怀上线" tvg-logo="" group-title="直播",万合天宜王大锤情怀上线
-https://live.stcwl.xyz/douyu/9220456
+http://192.168.31.254:35455/douyu/9220456
 #EXTINF:-1 tvg-id="可乐电影 欧美 科幻 经典" tvg-name="可乐电影 欧美 科幻 经典" tvg-logo="" group-title="直播",可乐电影 欧美 科幻 经典
-https://live.stcwl.xyz/douyu/20415
+http://192.168.31.254:35455/douyu/20415
 #EXTINF:-1 tvg-id="米娅陪看60帧喜剧科幻电影真人互动" tvg-name="米娅陪看60帧喜剧科幻电影真人互动" tvg-logo="" group-title="直播",米娅陪看60帧喜剧科幻电影真人互动
-https://live.stcwl.xyz/douyu/6537888
+http://192.168.31.254:35455/douyu/6537888
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Bili
 http://192.168.31.254:5679/bilibl.php?id=6
 #EXTINF:-1 tvg-id="LPL" tvg-name="LPL" tvg-logo="" group-title="LOL",LPL-Douyu
-https://live.stcwl.xyz/douyu/288016
+http://192.168.31.254:35455/douyu/288016
 #EXTINF:-1 tvg-id="老实憨厚的笑笑" tvg-name="老实憨厚的笑笑" tvg-logo="" group-title="LOL",老实憨厚的笑笑
 http://192.168.31.254:5679/bilibl.php?id=7777
 #EXTINF:-1 tvg-id="真实电竞（破防电竞）" tvg-name="真实电竞（破防电竞）" tvg-logo="https://i2.hdslb.com/bfs/face/e9a7d6f8af8e11c30bde4e3a398c251560d19984.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif" group-title="LOL",真实电竞（破防电竞）
 http://192.168.31.254:5679/bilibl.php?id=23170544
 #EXTINF:-1 tvg-id="WE957" tvg-name="WE957" tvg-logo="" group-title="LOL",WE957
-https://live.stcwl.xyz/huya/890001
+http://192.168.31.254:35455/huya/890001
 #EXTINF:-1 tvg-id="LCK" tvg-name="LCK" tvg-logo="" group-title="LOL",LCK
-https://live.stcwl.xyz/huya/lck
+http://192.168.31.254:35455/huya/lck
 #EXTINF:-1 tvg-id="Lofi-Radio1" tvg-name="Lofi-Radio1" tvg-logo="" group-title="油管",Lofi-Radio1
-https://live.stcwl.xyz/youtube/jfKfPfyJRdk
+http://192.168.31.254:35455/youtube/jfKfPfyJRdk
 #EXTINF:-1 tvg-id="Lofi-Radio2" tvg-name="Lofi-Radio2" tvg-logo="" group-title="油管",Lofi-Radio2
-https://live.stcwl.xyz/youtube/MVPTGNGiI-4
+http://192.168.31.254:35455/youtube/MVPTGNGiI-4
 #EXTINF:-1 tvg-id="Lofi-Radio3" tvg-name="Lofi-Radio3" tvg-logo="" group-title="油管",Lofi-Radio3
-https://live.stcwl.xyz/youtube/rUxyKA_-grg
+http://192.168.31.254:35455/youtube/rUxyKA_-grg
