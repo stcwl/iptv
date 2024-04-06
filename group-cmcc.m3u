@@ -336,7 +336,7 @@ http://192.168.31.254:7088/udp/239.10.0.95:1025
 #EXTINF:-1 tvg-id="百视通1080P直播室107" tvg-name="百视通1080P直播室107" tvg-logo="" group-title="国内体育",百视通1080P直播室107
 http://192.168.31.254:7088/udp/239.10.0.96:1025
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台
-https://cdn-iptv.hiper25.com/TVB/video.m3u8
+https://cdn-iptv.hiper25.com/TVB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000004000000052016021800000002.png" group-title="记录",金鹰纪实(CMCC)
