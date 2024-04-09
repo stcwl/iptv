@@ -1,0 +1,262 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视", CCTV-1 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/CCTV1HD.m3u8
+#EXTINF:-1 group-title="央视", CCTV-2 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/CCTV2HD.m3u8
+#EXTINF:-1 group-title="央视", CCTV-3 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1603.m3u8
+#EXTINF:-1 group-title="央视", CCTV-4 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1604.m3u8
+#EXTINF:-1 group-title="央视", CCTV-5 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1605.m3u8
+#EXTINF:-1 group-title="央视", CCTV-5+ (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1403.m3u8
+#EXTINF:-1 group-title="央视", CCTV-6 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1606.m3u8
+#EXTINF:-1 group-title="央视", CCTV-7 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1607.m3u8
+#EXTINF:-1 group-title="央视", CCTV-8 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1608.m3u8
+#EXTINF:-1 group-title="央视", CCTV-9 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1609.m3u8
+#EXTINF:-1 group-title="央视", CCTV-10 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/CCTV10HD.m3u8
+#EXTINF:-1 group-title="央视", CCTV-11 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1611.m3u8
+#EXTINF:-1 group-title="央视", CCTV-12 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/CCTV12HD.m3u8
+#EXTINF:-1 group-title="央视", CCTV-13 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1613.m3u8
+#EXTINF:-1 group-title="央视", CCTV-14 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1614.m3u8
+#EXTINF:-1 group-title="央视", CCTV-15 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/CCTV-15HD_7500.m3u8
+#EXTINF:-1 group-title="央视", CCTV-16 (1080P25P 4.5M 32Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1617_4500.m3u8
+#EXTINF:-1 group-title="央视", CCTV-17 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1616.m3u8
+
+#EXTINF:-1 group-title="广东", 广东卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1401.m3u8
+#EXTINF:-1 group-title="广东", 广东体育 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1413.m3u8
+#EXTINF:-1 group-title="广东", 广东经济科教 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1422.m3u8
+#EXTINF:-1 group-title="广东", 广东珠江 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1437.m3u8
+#EXTINF:-1 group-title="广东", 广东新闻 (1080P25P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1454.m3u8
+#EXTINF:-1 group-title="广东", 大湾区卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1456.m3u8
+#EXTINF:-1 group-title="广东", 广东少儿 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1457.m3u8
+#EXTINF:-1 group-title="广东", 广东影视 (1080P25P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1458.m3u8
+#EXTINF:-1 group-title="广东", 嘉佳卡通 (1080P25P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1459.m3u8
+#EXTINF:-1 group-title="广东", 岭南戏曲 (1080P25P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1460.m3u8
+
+#EXTINF:-1 group-title="卫视", 深圳卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1405.m3u8
+#EXTINF:-1 group-title="卫视", 东方卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1406.m3u8
+#EXTINF:-1 group-title="卫视", 北京卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1407.m3u8
+#EXTINF:-1 group-title="卫视", 湖南卫视 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/hunanHD_7000.m3u8
+#EXTINF:-1 group-title="卫视", 江西卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1428.m3u8
+#EXTINF:-1 group-title="卫视", 四川卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1424.m3u8
+#EXTINF:-1 group-title="卫视", 江苏卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1410.m3u8
+#EXTINF:-1 group-title="卫视", 浙江卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1409.m3u8
+#EXTINF:-1 group-title="卫视", 天津卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1415.m3u8
+#EXTINF:-1 group-title="卫视", 河北卫视 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1426.m3u8
+#EXTINF:-1 group-title="卫视", 重庆卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1425.m3u8
+#EXTINF:-1 group-title="卫视", 贵州卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1423.m3u8
+#EXTINF:-1 group-title="卫视", 辽宁卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1414.m3u8
+#EXTINF:-1 group-title="卫视", 湖北卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1417.m3u8
+#EXTINF:-1 group-title="卫视", 安徽卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1418.m3u8
+#EXTINF:-1 group-title="卫视", 黑龙江卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/heilongjiangHD_7000.m3u8
+#EXTINF:-1 group-title="卫视", 吉林卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1438.m3u8
+#EXTINF:-1 group-title="卫视", 海南卫视 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1451.m3u8
+#EXTINF:-1 group-title="卫视", 三沙卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1453.m3u8
+#EXTINF:-1 group-title="卫视", 陕西卫视 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1452.m3u8
+#EXTINF:-1 group-title="卫视", 山东卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1416.m3u8
+#EXTINF:-1 group-title="卫视", 河南卫视 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1430.m3u8
+#EXTINF:-1 group-title="卫视", 广西卫视 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1444.m3u8
+#EXTINF:-1 group-title="卫视", 甘肃卫视 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1462.m3u8
+
+#EXTINF:-1 group-title="北京", 纪实科教 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1445.m3u8
+#EXTINF:-1 group-title="北京", 卡酷少儿 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1464.m3u8
+
+#EXTINF:-1 group-title="广州", 广州台 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1432.m3u8
+#EXTINF:-1 group-title="广州", 广州新闻 (1080P25P 4.5M 48Khz 2.0Dolby)
+
+https://gudou-ott.hiper25.com/live/1433.m3u8
+#EXTINF:-1 group-title="广州", 增城台 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2079.m3u8
+
+#EXTINF:-1 group-title="东莞", 东莞新闻综合 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2121.m3u8
+#EXTINF:-1 group-title="东莞", 东莞生活资讯 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2121.m3u8
+
+#EXTINF:-1 group-title="珠海", 珠海-1 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/zhuhaiHD1_4500.m3u8
+#EXTINF:-1 group-title="珠海", 珠海-2 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/zhuhaiHD2_4500.m3u8
+#EXTINF:-1 group-title="珠海", 斗门融媒 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2207.m3u8
+
+#EXTINF:-1 group-title="惠州", HZTV-1 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2314.m3u8
+#EXTINF:-1 group-title="惠州", HZTV-2 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2316.m3u8
+#EXTINF:-1 group-title="惠州", 博罗综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2305.m3u8
+#EXTINF:-1 group-title="惠州", 惠东综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/huidongHD.m3u8
+
+#EXTINF:-1 group-title="韶关", 韶关综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2605.m3u8
+#EXTINF:-1 group-title="韶关", 始兴综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2610.m3u8
+#EXTINF:-1 group-title="韶关", 乐昌台 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2614.m3u8
+#EXTINF:-1 group-title="韶关", 曲江台 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2619.m3u8
+
+#EXTINF:-1 group-title="南雄", 南雄综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2608.m3u8
+
+#EXTINF:-1 group-title="潮州", 潮州综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3131.m3u8
+#EXTINF:-1 group-title="潮州", 潮州民生 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3132.m3u8
+#EXTINF:-1 group-title="潮州", 潮安综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/chaoanzongheHD.m3u8
+#EXTINF:-1 group-title="潮州", 饶平台 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/raopingtaiHD.m3u8
+
+#EXTINF:-1 group-title="汕头", 汕头综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/shantouyitaogaoqing_4500.m3u8
+#EXTINF:-1 group-title="汕头", 汕头经济生活 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/shantouertaogaoqing_4500.m3u8
+#EXTINF:-1 group-title="汕头", 汕头文旅体育 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/2508.m3u8
+
+#EXTINF:-1 group-title="汕尾", 汕尾新闻综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/shanweizongheHD.m3u8
+#EXTINF:-1 group-title="汕尾", 汕尾文化生活 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/shanweigonggongHD.m3u8
+
+#EXTINF:-1 group-title="揭阳", 揭阳综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/jieyangzongheHD.m3u8
+#EXTINF:-1 group-title="揭阳", 揭阳生活 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/jieyanggonggongHD.m3u8
+
+#EXTINF:-1 group-title="中山", 中山综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3665.m3u8
+#EXTINF:-1 group-title="中山", 中山香山文化 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3663.m3u8
+
+#EXTINF:-1 group-title="江门", 江门综合 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/jiangmenzongheHD.m3u8
+#EXTINF:-1 group-title="江门", 鹤山综合 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3709.m3u8
+#EXTINF:-1 group-title="江门", 新会综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3714.m3u8
+
+#EXTINF:-1 group-title="梅州", 梅州-1 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/meizhou1HD_4500.m3u8
+#EXTINF:-1 group-title="梅州", 客家生活 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/meizhou2HD_4500.m3u8
+#EXTINF:-1 group-title="梅州", 梅州导视 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3481.m3u8
+#EXTINF:-1 group-title="梅州", 梅县综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/meixianHD.m3u8
+
+#EXTINF:-1 group-title="茂名", 茂名综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3012.m3u8
+#EXTINF:-1 group-title="茂名",茂名文化生活 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3013.m3u8
+#EXTINF:-1 group-title="茂名",信宜台 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/xinyigaoqing.m3u8
+
+#EXTINF:-1 group-title="云浮",云浮综合 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/yunfuzongheHD_4500.m3u8
+
+#EXTINF:-1 group-title="河源",河源综合 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/heyuanzongheHD_4500.m3u8
+
+#EXTINF:-1 group-title="清远", 清远新闻综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/qingyuanzongheHD.m3u8
+#EXTINF:-1 group-title="清远", 清远新闻综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/qingyuanzongheHD.m3u8
+#EXTINF:-1 group-title="清远", 清远文旅生活 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/qingyuangonggongHD.m3u8
+
+#EXTINF:-1 group-title="平远", 平远综合 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3434.m3u8
+
+#EXTINF:-1 group-title="廉江", 廉江综合-1 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3209.m3u8
+#EXTINF:-1 group-title="廉江", 廉江综合-2 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/3210.m3u8
+
+#EXTINF:-1 group-title="中国广电", 重温经典 (1080i50P 4.5M 48Khz 5.1Dolby)
+https://gudou-ott.hiper25.com/live/1463.m3u8
+
+#EXTINF:-1 group-title="特色",劲爆体育 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1505.m3u8
+#EXTINF:-1 group-title="特色",梨园频道 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1937.m3u8
+#EXTINF:-1 group-title="特色",武术世界 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1938.m3u8
+#EXTINF:-1 group-title="特色",文物宝库 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1939.m3u8
+#EXTINF:-1 group-title="特色",金色学堂 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1940.m3u8
+#EXTINF:-1 group-title="特色",东方财经 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1941.m3u8
+#EXTINF:-1 group-title="特色",都市剧场 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/dushijuchangHD_7000.m3u8
+#EXTINF:-1 group-title="特色",乐游 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/dushijuchangHD_7000.m3u8
+#EXTINF:-1 group-title="特色",魅力足球 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/meiliyinyueHD_7000.m3u8
+#EXTINF:-1 group-title="特色", 新视觉 (1080i50P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/xinshijuegaoqing.m3u8
+#EXTINF:-1 group-title="特色",游戏风云 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/youxifengyunHD.m3u8
+#EXTINF:-1 group-title="特色",求索纪录 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/QSJLHD_7000.m3u8
+#EXTINF:-1 group-title="特色",求索科学 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/qiusuokexueHD_7000.m3u8
+#EXTINF:-1 group-title="特色",求索动物 (1080P25P 4.5M 48Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/QSDWHD_7000.m3u8
+#EXTINF:-1 group-title="特色",求索生活 (1080P25P 4.5M 32Khz 2.0Dolby)
+https://gudou-ott.hiper25.com/live/1612.m3u8
