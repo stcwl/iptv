@@ -619,7 +619,7 @@ http://192.168.31.254:5000/4gtv/291
 http://192.168.31.254:5000/4gtv/292
 #EXTINF:-1,tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞台.png" group-title="台",東森財經新聞台
 http://192.168.31.254:5000/4gtv/293
-EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000004000000052016021800000002.png" group-title="记录",金鹰纪实(CMCC)
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000004000000052016021800000002.png" group-title="记录",金鹰纪实(CMCC)
 http://192.168.31.254:7088/udp/239.20.0.196:2190
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052018110799000003.png" group-title="记录",上海纪实(CMCC)
 http://192.168.31.254:7088/udp/239.10.0.78:1025
