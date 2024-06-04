@@ -341,12 +341,16 @@ https://kr.stcwl.xyz/tv/ublive.php?id=390
 http://192.168.31254:5679/ublive.php?id=390
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
 https://twtv.stcwl.xyz/Smartv.php?id=pearl_twn
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台(备)
 https://kr.stcwl.xyz/tv/ublive.php?id=2437
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus
 https://kr.stcwl.xyz/tv/ublive.php?id=392
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus(备)
 https://twtv.stcwl.xyz/Smartv.php?id=j2_twn
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河台(粵語)" tvg-logo="http://content.stream-link.org/tv_logo/mytv_214.png" group-title="港",TVB星河台(粵語)
+https://kr.stcwl.xyz/tv/ublive.php?id=1079
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧经典台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png" group-title="港",TVB千禧经典台
+https://kr.stcwl.xyz/tv/ublive.php?id=1083
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台", 民視
 http://192.168.31.254:5000/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="台", 民視第一台
