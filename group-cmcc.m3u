@@ -336,12 +336,18 @@ http://192.168.31.254:7088/udp/239.10.0.95:1025
 #EXTINF:-1 tvg-id="百视通1080P直播室107" tvg-name="百视通1080P直播室107" tvg-logo="" group-title="国内体育",百视通1080P直播室107
 http://192.168.31.254:7088/udp/239.10.0.96:1025
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台
-https://iptv.doyoulinkwantyousee.top:4434/TVB/video.m3u8?token=XI_FQ_D8QdaYv0
+https://kr.stcwl.xyz/tv/ublive.php?id=390
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
-https://twtv.stcwl.xyz/Smartv.php?id=jade_twn
+http://192.168.31254:5679/ublive.php?id=390
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
 https://twtv.stcwl.xyz/Smartv.php?id=pearl_twn
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台", 民視
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
+https://kr.stcwl.xyz/tv/ublive.php?id=2437
+EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus
+https://kr.stcwl.xyz/tv/ublive.php?id=392
+EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus
+https://twtv.stcwl.xyz/Smartv.php?id=j2_twn
+EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台", 民視
 http://192.168.30.254:5000/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="台", 民視第一台
 http://192.168.30.254:5000/litv/4gtv-4gtv003
