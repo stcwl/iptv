@@ -340,7 +340,7 @@ http://146.56.131.91:1234/stream/jade/4k/master.m3u8?u=stcwl&p=c4f1be693acfd0027
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台
 http://grandprix2023.asuscomm.com:8889/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
-http://kramd2.stcwl.xyz:5558/stream/a/jade/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
+http://34.124.168.12:2345/stream/anbo/jade4k/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
 http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
