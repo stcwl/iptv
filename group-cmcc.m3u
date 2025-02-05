@@ -336,9 +336,9 @@ http://192.168.31.254:7088/udp/239.10.0.95:1025
 #EXTINF:-1 tvg-id="百视通1080P直播室107" tvg-name="百视通1080P直播室107" tvg-logo="" group-title="国内体育",百视通1080P直播室107
 http://192.168.31.254:7088/udp/239.10.0.96:1025
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台4K
-http://146.56.131.91:1234/stream/jade/4k/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
+http://kramd2.stcwl.xyz:5558/stream/a/jade/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台
-http://grandprix2023.asuscomm.com:8889/bysid/1
+http://35.220.150.45:3001/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
 http://kramd2.stcwl.xyz:5558/stream/a/jade/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
