@@ -21,6 +21,8 @@ http://192.168.31.254:7088/udp/239.20.0.197:2192
 http://192.168.31.254:7088/udp/239.20.0.28:3292
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000053.png" group-title="央视",CCTV4(CMCC)
 http://192.168.31.254:7088/udp/239.10.0.245:1025
+#EXTINF:-1 tvg-id="CCTV4eu" tvg-name="CCTV4eu" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000053.png" group-title="央视",CCTV4中文国际 欧洲(CMCC)
+http://192.168.31.254:7088/udp/239.10.0.107:3768
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000216.png" group-title="央视",CCTV5(CMCC)
 http://192.168.31.254:7088/udp/239.10.0.102:1025
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000153.png" group-title="央视",CCTV5+(CMCC)
