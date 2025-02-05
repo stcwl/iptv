@@ -339,18 +339,14 @@ http://192.168.31.254:7088/udp/239.10.0.96:1025
 http://kramd2.stcwl.xyz:5558/stream/a/jade/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台
 http://35.220.150.45:3001/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
-http://kramd2.stcwl.xyz:5558/stream/a/jade/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="港",翡翠台(备)
-http://kramd2.stcwl.xyz:5558/stream/a/jade/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台
-http://grandprix2023.asuscomm.com:8892/bysid/2
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台(备)
 http://kramd2.stcwl.xyz:5558/stream/a/peal/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港",明珠台(备)
+http://35.220.150.45:3001/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus
-http://grandprix2023.asuscomm.com:8892/bysid/82
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus(备)
 http://kramd2.stcwl.xyz:5558/stream/a/plus/master.m3u8?u=stcwl&p=c4f1be693acfd0027eabfd3789559ea94bd93e6786277a8fd9a8a95a7fdbf960
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港",TVB plus(备)
+http://35.220.150.45:3001/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河台(粵語)" tvg-logo="http://content.stream-link.org/tv_logo/mytv_214.png" group-title="港",TVB星河台(粵語)
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧经典台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png" group-title="港",TVB千禧经典台
